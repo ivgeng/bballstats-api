@@ -5,37 +5,37 @@
      [
        {
            "season":"2019-20",
-           "offrtg":"113.3",
-           "defrtg":"106.9",
-           "astto":"1.63",
+           "offrtg":113.3,
+           "defrtg":106.9,
+           "astto":1.63,
            "pace":102.16                     
        },
        {
             "season":"2018-19",
-            "offrtg":"111.4",
-            "defrtg":"110.4",
-            "astto":"1.65",
+            "offrtg":111.4,
+            "defrtg":110.4,
+            "astto":1.65,
             "pace":102.66     
        },
        {
             "season":"2017-18",
-            "offrtg":"109.4",
-            "defrtg":"109.2",
-            "astto":"1.52",
+            "offrtg":109.4,
+            "defrtg":109.2,
+            "astto":1.52,
             "pace":99.54      
        },
           {
             "season":"2016-17",
-            "offrtg":"111.8",
-            "defrtg":"107.5",
-            "astto":"1.74",
+            "offrtg":111.8,
+            "defrtg":107.5,
+            "astto":1.74,
             "pace":96.77      
        },
           {
             "season":"2015-16",
-            "offrtg":"107.2",
-            "defrtg":"102.7",
-            "astto":"1.76",
+            "offrtg":107.2,
+            "defrtg":102.7,
+            "astto":1.76,
             "pace":96.81      
        }
     ],
@@ -55,37 +55,37 @@
      [
        {
         "season":"2019-20",
-        "offrtg":"117.7",
-        "defrtg":"106.1",
-        "astto":"1.67",
+        "offrtg":117.7,
+        "defrtg":106.1,
+        "astto":1.67,
         "pace":101.20  
        },
        {
         "season":"2018-19",
-        "offrtg":"107.4",
-        "defrtg":"108.9",
-        "astto":"1.63",
+        "offrtg":107.4,
+        "defrtg":108.9,
+        "astto":1.63,
         "pace":103.60   
        },
        {
         "season":"2017-18",
-        "offrtg":"106.0",
-        "defrtg":"107.3",
-        "astto":"1.51",
+        "offrtg":106.0,
+        "defrtg":107.3,
+        "astto":1.51,
         "pace":100.90      
         },
         {
         "season":"2016-17",
-        "offrtg":"105.3 ",
-        "defrtg":"112.0",
-        "astto":"1.38",
+        "offrtg":105.3 ,
+        "defrtg":112.0,
+        "astto":1.38,
         "pace":99.26      
        },
        {
         "season":"2015-16",
-        "offrtg":"100.7",
-        "defrtg":"110.3",
-        "astto":"1.31",
+        "offrtg":100.7,
+        "defrtg":110.3,
+        "astto":1.31,
         "pace":96.55      
         }
     ],
@@ -104,37 +104,37 @@
         [ 
             {
             "season":"2019-20",
-            "offrtg":"111.3",
-            "defrtg":"110.8",
-            "astto":"1.84",
+            "offrtg":111.3,
+            "defrtg":110.8,
+            "astto":1.84,
             "pace":101.74 
            },
            {
             "season":"2018-19",
-            "offrtg":"105.3",
-            "defrtg":"114.2",
-            "astto":"1.53",
+            "offrtg":105.3,
+            "defrtg":114.2,
+            "astto":1.53,
             "pace":101.15  
            },
            {
             "season":"2017-18",
-            "offrtg":"102.8",
-            "defrtg":"111.7",
-            "astto":"1.35",
+            "offrtg":102.8,
+            "defrtg":111.7,
+            "astto":1.35,
             "pace":101.14      
             },
             {
             "season":"2016-17",
-            "offrtg":"106.1",
-            "defrtg":"111.3",
-            "astto":"1.27",
+            "offrtg":106.1,
+            "defrtg":111.3,
+            "astto":1.27,
             "pace":100.85     
            },
            {
             "season":"2015-16",
-            "offrtg":"101.5 ",
-            "defrtg":"107.9",
-            "astto":"1.21",
+            "offrtg":101.5 ,
+            "defrtg":107.9,
+            "astto":1.21,
             "pace":99.39      
             }
         ],
@@ -153,37 +153,37 @@
          [
                 {
                 "season":"2019-20",
-                "offrtg":"104.4",
-                "defrtg":"113",
-                "astto":"1.72",
+                "offrtg":104.4,
+                "defrtg":113,
+                "astto":1.72,
                 "pace":101.04  
                 },
                {
                 "season":"2018-19",
-                "offrtg":"115.0",
-                "defrtg":"108.6",
-                "astto":"2.06",
+                "offrtg":115.0,
+                "defrtg":108.6,
+                "astto":2.06,
                 "pace":101.74   
                },
                {
                 "season":"2017-18",
-                "offrtg":"112.8",
-                "defrtg":"106.8",
-                "astto":"1.90",
+                "offrtg":112.8,
+                "defrtg":106.8,
+                "astto":1.90,
                 "pace":100.35      
                 },
                 {
                 "season":"2016-17",
-                "offrtg":"114.8",
-                "defrtg":"103.4",
-                "astto":"2.06",
+                "offrtg":114.8,
+                "defrtg":103.4,
+                "astto":2.06,
                 "pace":100.37     
                },
                {
                 "season":"2015-16",
-                "offrtg":"113.5",
-                "defrtg":"102.8",
-                "astto":"1.91",
+                "offrtg":113.5,
+                "defrtg":102.8,
+                "astto":1.91,
                 "pace":100.24      
                 }
          ],
@@ -202,37 +202,37 @@
          [
                 {
                 "season":"2019-20",
-                "offrtg":"109.5",
-                "defrtg":"111.4",
-                "astto":"1.64",
+                "offrtg":109.5,
+                "defrtg":111.4,
+                "astto":1.64,
                 "pace":99.6 
                },
                {
                 "season":"2018-19",
-                "offrtg":"109.6",
-                "defrtg":"110.8",
-                "astto":"1.90",
+                "offrtg":109.6,
+                "defrtg":110.8,
+                "astto":1.90,
                 "pace":103.88   
                },
                {
                 "season":"2017-18",
-                "offrtg":"103.1",
-                "defrtg":"110.4",
-                "astto":"1.57",
+                "offrtg":103.1,
+                "defrtg":110.4,
+                "astto":1.57,
                 "pace":95.50      
                 },
                 {
                 "season":"2016-17",
-                "offrtg":"106.6",
-                "defrtg":"110.8 ",
-                "astto":"1.54",
+                "offrtg":106.6,
+                "defrtg":110.8 ,
+                "astto":1.54,
                 "pace":95.42      
                },
                {
                 "season":"2015-16",
-                "offrtg":"105.3",
-                "defrtg":"107.6",
-                "astto":"1.52",
+                "offrtg":105.3,
+                "defrtg":107.6,
+                "astto":1.52,
                 "pace":100.66      
                 }
          ],
